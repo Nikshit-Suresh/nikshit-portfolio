@@ -314,7 +314,7 @@ function App() {
     </a>
 
     <a
-      href="/resume/Nikshit_Suresh_Resume.pdf"
+      href="/resume/NIKSHIT SURESH - Resume.pdf"
       target="_blank"
       rel="noopener noreferrer"
       className="contact-card"
